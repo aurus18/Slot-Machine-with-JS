@@ -1,4 +1,4 @@
-# Slot Machine Game 🎰
+ # Slot Machine Game 🎰
 
 This is a simple command-line slot machine game built with Node.js. The game simulates a classic slot machine experience where users can deposit money, place bets, spin the reels, and try their luck to win big!
 
